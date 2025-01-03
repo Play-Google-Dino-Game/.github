@@ -44,4 +44,4 @@ This repository is a complete package for anyone looking to dive into the world 
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/trex-runner-game.git  
+   git clone https://github.com/shivansh7922/trex-runner-game.git  
