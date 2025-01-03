@@ -1,4 +1,4 @@
-# T-Rex Runner Game: The Ultimate Offline Dinosaur Adventure  
+# Google Chrome Dino Runner Game  
 
 [Play the game here!](https://dinosaur-game.site/)  
 
